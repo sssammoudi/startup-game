@@ -1,4 +1,5 @@
-# startup-game
+# Test on:
+https://my-startup-game.web.app
 
 ## Project setup
 ```
